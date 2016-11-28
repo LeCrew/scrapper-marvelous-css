@@ -1,0 +1,26 @@
+{
+  "name": "scrapper-marvelous-css",
+  "version": "1.0.0",
+  "description": "Node.js script scrapper css reference",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeCrew/scrapper-marvelous-css.git"
+  },
+  "author": "LeCrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeCrew/scrapper-marvelous-css/issues"
+  },
+  "homepage": "https://github.com/LeCrew/scrapper-marvelous-css#readme",
+  "devDependencies": {
+      "cheerio": "^0.22.0",
+      "jsonfile": "^2.4.0",
+      "lodash": "^4.17.2",
+      "path": "^0.12.7",
+      "request": "^2.79.0"
+  }
+}
