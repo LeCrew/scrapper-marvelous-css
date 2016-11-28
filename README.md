@@ -3,6 +3,10 @@ The scrapper and CSS Sheet
 
 See the api [here](https://github.com/LeCrew/marvelous-css-api).
 
+### install
+
+    $> npm install --save scrapper-marvelous-css
+
 ### launch the script
 
     $> npm i && npm run start
