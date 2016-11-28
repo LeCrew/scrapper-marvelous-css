@@ -1,6 +1,8 @@
 # scrapper-marvelous-css
 The scrapper and CSS Sheet
 
+See the api [here](https://github.com/LeCrew/marvelous-css-api).
+
 ### launch the script
 
     $> npm i && npm run start
